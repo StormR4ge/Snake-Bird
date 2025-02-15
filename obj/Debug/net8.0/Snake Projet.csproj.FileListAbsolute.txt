@@ -20,3 +20,4 @@ C:\Users\cyril\Documents\Cours de Csharp\école\C# Module 3\Projet\Module 3 Snak
 C:\Users\cyril\Documents\Cours de Csharp\école\C# Module 3\Projet\Module 3 Snake\Snake Projet\Snake Projet\obj\Debug\net8.0\Snake Projet.pdb
 C:\Users\cyril\Documents\Cours de Csharp\école\C# Module 3\Projet\Module 3 Snake\Snake Projet\Snake Projet\obj\Debug\net8.0\Snake Projet.genruntimeconfig.cache
 C:\Users\cyril\Documents\Cours de Csharp\école\C# Module 3\Projet\Module 3 Snake\Snake Projet\Snake Projet\obj\Debug\net8.0\ref\Snake Projet.dll
+C:\Users\cyril\Documents\Cours de Csharp\école\C# Module 3\Projet\Module 3 Snake\Snake Projet\Snake Projet\obj\Debug\net8.0\Snake Projet.sourcelink.json
